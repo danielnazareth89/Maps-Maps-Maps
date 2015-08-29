@@ -1,1 +1,2 @@
 # Maps-Maps-Maps
+This is a repository of the work I did during my summer 2015 internship at Infochimps, a CSC Big Data Business. It comprises a set of widgets written in the Ext JS 5.0.0 Sencha framework for Infochimps' new Internet Of Things initiative, in particular to enhance the Map component of the IOT application. The widgets provide a number of nifty, custom overlays for the map using several open API's like Google Maps, Google Earth, Open Weather Map etc.I've included some links to jsfiddles as well so that you can view the widgets in action.
