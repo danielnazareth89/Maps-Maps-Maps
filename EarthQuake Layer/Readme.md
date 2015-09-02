@@ -1,0 +1,1 @@
+This is a widget which overlays the earthquake prone zones of the world along with the rate at which the relevant tectonic plates are shifting over a standard Google Map panel in Ext JS 5 using a KMZ file obtained from Google Earth. The JS Fiddle can be viewed [here](http://jsfiddle.net/danielnazareth89/xot5777q/)

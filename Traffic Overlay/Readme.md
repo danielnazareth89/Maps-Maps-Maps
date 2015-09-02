@@ -1,0 +1,1 @@
+This widget zeroes in on a location using the Geocoding API and then shows a color coded view of the traffic at that location. This is hugely useful extension for vehicle based IoT applications. The program calls the Google Traffic API in the background. You can view it in action [here](http://jsfiddle.net/danielnazareth89/r5mppyfk/).
